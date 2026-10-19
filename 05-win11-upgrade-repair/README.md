@@ -44,4 +44,4 @@ Check the fixes you need, then Run. Restart before retrying the upgrade.
 
 ## Screenshot
 
-![Windows 11 Upgrade Repair GUI](../screenshots/win11-upgrade-repair.png)
+![Windows 11 Upgrade Repair GUI](../screenshots/win11-upgrade-repair-gui.png)
